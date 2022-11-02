@@ -1,0 +1,60 @@
+body { 
+    background-color:bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {  
+    color: rgb(70, 85, 212); 
+}  
+
+p {
+    color: black;
+}
+
+h2 {
+    color: #6a1783;
+}
+
+#sbma{
+    color: rgb(173, 75, 149);
+}
+
+li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hakkimizda-fs{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+header{
+    width: 300px;
+    margin:0 auto;
+    
+
+}
+
+h1{
+    width:210px;
+    margin:0 auto;
+}
+
+h2{
+    width:170px;
+    margin:0 auto;
+}
+
+#anasayfa-title{
+    width:150px;
+    margin:0 auto;
+
+}
+
+article{
+    width:400px;
+    margin:0 auto;
+
+}
+
+
